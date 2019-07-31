@@ -10,3 +10,5 @@ Run the following command in the project directory:
 * `ant doc` to generate documentation,
 * `ant clean` to clean up project folder.
 
+and you can also run 
+$java -jar  build/jar/ant-sample.jar
